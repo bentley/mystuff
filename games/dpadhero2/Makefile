@@ -14,9 +14,8 @@ HOMEPAGE =	http://dpadhero.com/
 
 MAINTAINER =	Anthony J. Bentley <anthony@anjbe.name>
 
-# Freely downloadable
-PERMIT_PACKAGE_CDROM =	No resale grant
-PERMIT_PACKAGE_FTP =	Yes
+# GPLv3 http://repo.or.cz/dpadhero2.git/blob/HEAD:/src/COPYING
+PERMIT_PACKAGE_CDROM =	Yes
 
 MASTER_SITES =		http://www.dpadhero.com/releases/$V/
 
