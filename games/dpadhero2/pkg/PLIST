@@ -1,0 +1,4 @@
+@comment $OpenBSD$
+share/roms/
+share/roms/nes/
+share/roms/nes/dpadhero2.nes

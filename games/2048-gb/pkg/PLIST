@@ -1,0 +1,4 @@
+@comment $OpenBSD$
+share/roms/
+share/roms/gb/
+share/roms/gb/2048.gb
