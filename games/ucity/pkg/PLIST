@@ -1,0 +1,4 @@
+@comment $OpenBSD$
+share/roms/
+share/roms/gb/
+share/roms/gb/ucity.gbc
